@@ -2,7 +2,7 @@
 
 # **Syntax (ไวยกรณ์)** is a programming group of high school students in Thailand 🇹🇭
 ## 👋 Quick Introduction:
-Current projects: National Software Contest, Coding for Metaverse <br>
+Current projects: Khao Tarang, Waiyakon
 Past achievements: 14th ICT Challenge (🥉 3rd Place), 70th Silpa ศิลปหัถกรรม (Software Project: 🥈 2nd Place Gold, Robot: 🥈 2nd Place Gold) <br>
 <br>
 🧑‍🤝‍🧑Notable Members:
